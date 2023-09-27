@@ -1,3 +1,4 @@
 <?php 
-header("build/index.html");
+header('Location: http://www.example.com/');
+exit;
 ?>
